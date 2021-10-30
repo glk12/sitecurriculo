@@ -1,0 +1,21 @@
+body {
+    position: absolute;
+    left: 30em;
+    background:linear-gradient(135deg,#71b7e6, #ffa5e1);
+    text-decoration: none;
+}
+footer{
+    position: absolute;
+    top:56em;
+}
+
+main{
+    
+    background:#fff;
+    padding:25px 30px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+
